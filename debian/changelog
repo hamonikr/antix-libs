@@ -1,3 +1,10 @@
+antix-libs (0.8.6-20221001+1) stable; urgency=medium
+
+  * Release for HamoniKR 6.0
+   - Supported Ubuntu 22.04
+
+ -- HamoniKR <pkg@hamonikr.org>  Sun, 02 Oct 2022 20:53:19 +0900
+
 antix-libs (0.8.6hamonikr1) stable; urgency=medium
 
   * Apply in HamoniKR 4.0
